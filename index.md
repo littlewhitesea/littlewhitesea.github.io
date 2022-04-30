@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Hai Wang Pages
 
-You can use the [editor on GitHub](https://github.com/littlewhitesea/littlewhitesea.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Master student, Tsinghua University
+wanghai19@mails.tsinghua.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Biography
 
-### Markdown
+I am a master student in the Department of Electronic Engineering, Tsinghua University, China, where I am advised by Prof. Wenming Yang. Previously, I received my B.E degree from School of Electronic Engineering, Xidian University in 2019.
+
+My research interest includes Video Super-Resolution and Enhancement.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
