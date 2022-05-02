@@ -1,4 +1,4 @@
-## Welcome to Hai Wang Pages
+## Welcome to Hai Wang's Page
 
 Master student, Tsinghua University
 
@@ -6,9 +6,24 @@ wanghai19@mails.tsinghua.edu.cn
 
 ### Biography
 
-I am a master student in the Department of Electronic Engineering, Tsinghua University, China, where I am advised by Prof. Wenming Yang. Previously, I received my B.E degree from School of Electronic Engineering, Xidian University in 2019.
+I am currently a master student in the Department of Electronic Engineering, Tsinghua University, China, where I am advised by Prof. Wenming Yang. Previously, I received my B.E degree from School of Electronic Engineering, Xidian University in 2019.
 
 My research interest includes Video Super-Resolution and Enhancement.
+
+### Research Experience
+
+R&D Department, DJI, Shenzhen, China
+
+Research Intern, Nov. 2020 ~ Jul. 2021
+
+Mentor: Liliang Zhang
+
+VIP Lab, Tsinghua University, China
+
+Master Student, Sep. 2019 ~ Now
+
+Supervisor: Prof. Wenming Yang
+
 
 ### Publications
 
