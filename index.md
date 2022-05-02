@@ -32,7 +32,7 @@ STDAN: Deformable Attention Network for Space-Time Video Super-Resolution.
 
 Second-class Scholarship, Tsinghua University, 2021
 
-Outstanding Gradudate Student, Xidian University, 2019
+Outstanding Gradudate, Xidian University, 2019
 
 Interdisciplinary Contest In Modeling, Xidian University, 2018
 
