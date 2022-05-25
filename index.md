@@ -23,10 +23,19 @@ Supervisor: Prof. Wenming Yang
 
 ### Publications
 
+**Conference Papers**
+
+A New Approach to Waiting Time and Dispatch Frequency Guided Bus Timetable Optimization. \
+*IEEE International Conference on Industrial Technology (ICIT), 2022.* \
+*Hai Wang, Feng Li, Wenming Yang, Qingmin Liao.*
+
 **Workshop Papers**
 
+Space-Time Video Super-Resolution Using Deformable Attention Network. \
+*Hai Wang, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingming Liao. CVPR Workshop, 2022.*
+
 NTIRE 2021 Challenge on Quality Enhancement of Compressed VIdeo: Methods and Results. \
-*Ren Yang et al. CVPR Worhshop, 2021. (The 8th Place)*
+*Ren Yang et al. CVPR Workshop, 2021. (The 8th Place)*
 
 NTIRE 2021 Challenge on Perceptual Image Quality Assessment.  \
 *Jinjin Gu et al. CVPR Workshop, 2021. (The 3rd Place)*
