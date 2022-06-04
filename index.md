@@ -29,6 +29,12 @@ A New Approach to Waiting Time and Dispatch Frequency Guided Bus Timetable Optim
 *IEEE International Conference on Industrial Technology (ICIT), 2022.* \
 *Hai Wang, Feng Li, Wenming Yang, Qingmin Liao.*
 
+**Journal Papers**
+
+Bi-RSTU: Bidirectional Recurrent Upsampling Network for Space-Time Video Super-Resolution. \
+*IEEE Transactions on Multimedia (TMM), 2022.* \
+*Hai Wang, Wenming Yang, Qingmin Liao and Jie Zhou.*
+
 **Workshop Papers**
 
 Space-Time Video Super-Resolution Using Deformable Attention Network. \
