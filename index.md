@@ -38,7 +38,7 @@ Bi-RSTU: Bidirectional Recurrent Upsampling Network for Space-Time Video Super-R
 **Workshop Papers**
 
 Space-Time Video Super-Resolution Using Deformable Attention Network. \
-*Hai Wang, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingming Liao. CVPR Workshop, 2022.*
+*Hai Wang, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingmin Liao. CVPR Workshop, 2022.*
 
 NTIRE 2021 Challenge on Quality Enhancement of Compressed VIdeo: Methods and Results. \
 *Ren Yang et al. CVPR Workshop, 2021. (The 8th Place)*
