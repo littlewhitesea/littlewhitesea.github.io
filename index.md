@@ -9,6 +9,8 @@ I am currently a master student in the Department of Electronic Engineering, Tsi
 
 My research interest includes Video Super-Resolution and Enhancement.
 
+I am searching for a PhD position in 2022 Fall/2023 Spring.
+
 ### Research Experience
 
 R&D Department, DJI, Shenzhen, China \
