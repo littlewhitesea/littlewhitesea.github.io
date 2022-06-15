@@ -7,7 +7,7 @@ wanghai19@mails.tsinghua.edu.cn
 
 I am currently a master student in the Department of Electronic Engineering, Tsinghua University, China, where I am advised by Prof. Wenming Yang. Previously, I received my B.E degree from School of Electronic Engineering, Xidian University in 2019.
 
-My research interest includes Video Super-Resolution and Enhancement.
+My research interests include Video Super-Resolution and Enhancement.
 
 I am searching for a PhD position in 2022 Fall/2023 Spring.
 
