@@ -7,7 +7,7 @@ wanghai19@mails.tsinghua.edu.cn
 
 I am currently a master student in the Department of Electronic Engineering, Tsinghua University, China, where I am advised by Prof. Wenming Yang. Previously, I received my B.E degree from School of Electronic Engineering, Xidian University in 2019.
 
-My research interests include Video Super-Resolution and Enhancement.
+My research interests include Video Super-Resolution and Enhancement, Image/Video Generation.
 
 ### Research Experience
 
@@ -22,12 +22,6 @@ Supervisor: Prof. Wenming Yang
 
 
 ### Publications
-
-**Conference Papers**
-
-A New Approach to Waiting Time and Dispatch Frequency Guided Bus Timetable Optimization. \
-*IEEE International Conference on Industrial Technology (ICIT), 2022.* \
-*Hai Wang, Feng Li, Wenming Yang, Qingmin Liao.*
 
 **Journal Papers**
 
