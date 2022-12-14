@@ -7,7 +7,7 @@ papers:
     code: "https://github.com/littlewhitesea/STDAN"
     selected: y
     
-    - title: "Space-Time Video Super-Resolution Using Deformable Attention Network"
+  - title: "Space-Time Video Super-Resolution Using Deformable Attention Network"
     authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingming Liao"
     venue: "CVPRW'22: CVPR Workshop on Attention and Transformers in Vision 2022."
     paper_pdf: "https://github.com/littlewhitesea/STDAN-CVPRW-2022/blob/main/STDAN_STVSR.pdf"
