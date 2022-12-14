@@ -10,7 +10,7 @@ papers:
   - title: "Bi-RSTU: Bidirectional Recurrent Upsampling Network for Space-Time Video Super-Resolution"
     authors: "<b>Hai Wang</b>, Wenming Yang, Qingmin Liao and Jie Zhou"
     venue: "TMM'22: IEEE Trans. Multimedia."
-    paper_pdf: "/assets/publications/2022_TMM/STVSR.pdf"
+    paper_pdf: "https://github.com/littlewhitesea/littlewhitesea.github.io/blob/master/assets/publications/2022_TMM/STVSR.pdf"
     selected: y
     
     - title: "Space-Time Video Super-Resolution Using Deformable Attention Network"
@@ -24,7 +24,7 @@ papers:
   - title: "A New Approach to Waiting Time and Dispatch Frequency Guided Bus Timetable Optimization"
     authors: "<b>Hai Wang</b>, Feng Li, Wenming Yang, Qingmin Liao"
     venue: "ICIT'22: IEEE International Conference on Industrial Technology 2022."
-    paper_pdf: "/assets/publications/2022_intelligent_bus_schedule/ICIT_2022.pdf"
+    paper_pdf: "https://github.com/littlewhitesea/littlewhitesea.github.io/blob/master/assets/publications/2022_intelligent_bus_schedule/ICIT_2022.pdf"
     selected: y
 
   - title: "NTIRE 2021 Challenge on Quality Enhancement of Compressed VIdeo: Methods and Results"
