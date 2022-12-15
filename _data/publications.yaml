@@ -27,7 +27,7 @@ papers:
     paper_pdf: "https://github.com/littlewhitesea/littlewhitesea.github.io/blob/master/assets/publications/2022_intelligent_bus_schedule/ICIT_2022.pdf"
     selected: y
 
-  - title: "NTIRE 2021 Challenge on Quality Enhancement of Compressed VIdeo: Methods and Results"
+  - title: "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results"
     authors: "Ren Yang et al."
     venue: "CVPRW'21: CVPR Workshops."
     paper_pdf: "https://arxiv.org/pdf/2104.10781.pdf"
