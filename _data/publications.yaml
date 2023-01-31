@@ -2,7 +2,7 @@ papers:
 
   - title: "STDAN: Deformable Attention Network for Space-Time Video Super-Resolution"
     authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingming Liao"
-    venue: "Preprint."
+    venue: "TNNLS'23: IEEE Transactions on Neural Networks and Learning Systems."
     paper_pdf: "https://arxiv.org/pdf/2203.06841.pdf"
     code: "https://github.com/littlewhitesea/STDAN"
     selected: y
