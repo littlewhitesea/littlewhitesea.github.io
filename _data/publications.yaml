@@ -3,14 +3,14 @@ papers:
   - title: "STDAN: Deformable Attention Network for Space-Time Video Super-Resolution"
     authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingming Liao"
     venue: "TNNLS'23: IEEE Transactions on Neural Networks and Learning Systems."
-    paper_pdf: "https://arxiv.org/pdf/2203.06841.pdf"
+    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/10045744"
     code: "https://github.com/littlewhitesea/STDAN"
     selected: y
   
   - title: "Bi-RSTU: Bidirectional Recurrent Upsampling Network for Space-Time Video Super-Resolution"
     authors: "<b>Hai Wang</b>, Wenming Yang, Qingmin Liao and Jie Zhou"
     venue: "TMM'22: IEEE Transactions on Multimedia."
-    paper_pdf: "https://github.com/littlewhitesea/littlewhitesea.github.io/blob/master/assets/publications/2022_TMM/STVSR.pdf"
+    paper_pdf: "https://ieeexplore.ieee.org/document/9793365"
     selected: y
     
   - title: "Space-Time Video Super-Resolution Using Deformable Attention Network"
