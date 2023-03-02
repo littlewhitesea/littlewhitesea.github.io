@@ -24,18 +24,18 @@ papers:
   - title: "A New Approach to Waiting Time and Dispatch Frequency Guided Bus Timetable Optimization"
     authors: "<b>Hai Wang</b>, Feng Li, Wenming Yang, Qingmin Liao"
     venue: "ICIT'22: IEEE International Conference on Industrial Technology 2022."
-    paper_pdf: "https://drive.google.com/file/d/1Oc1gWB0G-8CrOE9czXvnaqokAL8T1t0n/view?usp=sharing"
+    paper_pdf: "https://ieeexplore.ieee.org/document/10002721"
     selected: y
 
   - title: "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results"
     authors: "Ren Yang et al."
     venue: "CVPRW'21: CVPR Workshops."
-    paper_pdf: "https://arxiv.org/pdf/2104.10781.pdf"
+    paper_pdf: "https://ieeexplore.ieee.org/document/9523125"
     code: "https://github.com/RenYang-home/NTIRE21_VEnh"
     selected: y
 
   - title: "NTIRE 2021 Challenge on Perceptual Image Quality Assessment"
     authors: "Jinjin Gu et al."
     venue: "CVPRW'21: CVPR Workshops."
-    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Gu_NTIRE_2021_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2021_paper.pdf"
+    paper_pdf: "https://ieeexplore.ieee.org/document/9522906"
     selected: y
