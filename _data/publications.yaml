@@ -2,7 +2,7 @@ papers:
 
   - title: "Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models"
     authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Yuchen Fan, Jing-Hao Xue"
-    venue: "WACV'24: Winter Conference on Applications of Computer Vision."
+    venue: "WACV'24: IEEE/CVF Winter Conference on Applications of Computer Vision."
     code: "https://github.com/littlewhitesea/StitchDiffusion"
     selected: y
 
