@@ -4,6 +4,7 @@ papers:
     authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Yuchen Fan, Jing-Hao Xue"
     venue: "WACV'24: IEEE/CVF Winter Conference on Applications of Computer Vision."
     project_page: "https://littlewhitesea.github.io/stitchdiffusion.github.io/"
+    paper_pdf: "https://arxiv.org/pdf/2310.18840.pdf"
     code: "https://github.com/littlewhitesea/StitchDiffusion"
     selected: y
 
