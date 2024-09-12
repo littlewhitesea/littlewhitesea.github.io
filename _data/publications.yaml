@@ -1,5 +1,13 @@
 papers:
 
+  - title: "360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation"
+    authors: "<b>Hai Wang</b>, Jing-Hao Xue"
+    venue: "WACV'25: IEEE/CVF Winter Conference on Applications of Computer Vision."
+    paper_pdf: "https://littlewhitesea.github.io/360PanT.github.io/"
+    project_page: "https://littlewhitesea.github.io/360PanT.github.io/"
+    code: "https://github.com/littlewhitesea/360PanT"
+    selected: y
+
   - title: "Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models"
     authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Yuchen Fan, Jing-Hao Xue"
     venue: "WACV'24: IEEE/CVF Winter Conference on Applications of Computer Vision."
