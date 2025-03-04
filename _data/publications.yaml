@@ -1,5 +1,13 @@
 papers:
 
+  - title: "A Survey on Text-Driven 360-Degree Panorama Generation"
+    authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Weihao Xia, Jing-Hao Xue"
+    venue: "Preprint'25."
+    paper_pdf: "https://arxiv.org/pdf/2502.14799"
+    project_page: "https://littlewhitesea.github.io/Text-Driven-Pano-Gen/"
+    code: "https://github.com/littlewhitesea/Text-Driven-Pano-Gen"
+    selected: y
+
   - title: "360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation"
     authors: "<b>Hai Wang</b>, Jing-Hao Xue"
     venue: "WACV'25 Oral: IEEE/CVF Winter Conference on Applications of Computer Vision."
