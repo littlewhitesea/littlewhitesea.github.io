@@ -9,7 +9,7 @@ papers:
     selected: y
 
   - title: "Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction"
-    authors: "Yi He‡, Yiming Yang‡, Xiaoyuan Cheng‡, <b>Hai Wang</b>, Xiao Xue, Boli Chen, Yukun Hu"
+    authors: "Yi He<sup>‡</sup>, Yiming Yang<sup>‡</sup>, Xiaoyuan Cheng<sup>‡</sup>, <b>Hai Wang</b>, Xiao Xue, Boli Chen, Yukun Hu"
     venue: "ICML'25: International Conference on Machine Learning."
     paper_pdf: "https://arxiv.org/abs/2504.20858"
     selected: y
