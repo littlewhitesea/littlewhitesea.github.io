@@ -12,6 +12,7 @@ papers:
     authors: "Yi He<sup>‡</sup>, Yiming Yang<sup>‡</sup>, Xiaoyuan Cheng<sup>‡</sup>, <b>Hai Wang</b>, Xiao Xue, Boli Chen, Yukun Hu"
     venue: "ICML'25: International Conference on Machine Learning."
     paper_pdf: "https://arxiv.org/abs/2504.20858"
+    code: "https://github.com/Hy23333/ChaosMeetsAttention"
     selected: y
 
   - title: "360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation"
