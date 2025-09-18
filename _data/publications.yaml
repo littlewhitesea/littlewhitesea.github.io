@@ -8,6 +8,12 @@ papers:
     code: "https://github.com/littlewhitesea/Text-Driven-Pano-Gen"
     selected: y
 
+  - title: "A Brief Review of Deep Learning Methods in Mortality Forecasting"
+    authors: "Huiling Zheng, <b>Hai Wang</b>, Rui Zhu, Jing-Hao Xue"
+    venue: "AAS'25: Annals of Actuarial Science."
+    paper_pdf: "https://doi.org/10.0000/tbd"
+    selected: y
+
   - title: "Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction"
     authors: "Yi He<sup>‡</sup>, Yiming Yang<sup>‡</sup>, Xiaoyuan Cheng<sup>‡</sup>, <b>Hai Wang</b>, Xiao Xue, Boli Chen, Yukun Hu"
     venue: "ICML'25: International Conference on Machine Learning."
