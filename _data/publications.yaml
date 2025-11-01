@@ -13,20 +13,20 @@ papers:
     venue: "AAS'25: Annals of Actuarial Science."
     paper_pdf: "https://pending.publication/"
     code: "https://github.com/Icecream-maker/MortFCNet"
-    selected: y
+    selected: n
 
   - title: "A Brief Review of Deep Learning Methods in Mortality Forecasting"
     authors: "Huiling Zheng, <b>Hai Wang</b>, Rui Zhu, Jing-Hao Xue"
     venue: "AAS'25: Annals of Actuarial Science."
     paper_pdf: "https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/brief-review-of-deep-learning-methods-in-mortality-forecasting/64320E3948D48367262690E2DDBB2D38"
-    selected: y
+    selected: n
 
   - title: "Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction"
     authors: "Yi He<sup>‡</sup>, Yiming Yang<sup>‡</sup>, Xiaoyuan Cheng<sup>‡</sup>, <b>Hai Wang</b>, Xiao Xue, Boli Chen, Yukun Hu"
     venue: "ICML'25: International Conference on Machine Learning."
     paper_pdf: "https://arxiv.org/abs/2504.20858"
     code: "https://github.com/Hy23333/ChaosMeetsAttention"
-    selected: y
+    selected: n
 
   - title: "360PanT: Training-Free Text-Driven 360-Degree Panorama-to-Panorama Translation"
     authors: "<b>Hai Wang</b>, Jing-Hao Xue"
@@ -63,23 +63,23 @@ papers:
     paper_pdf: "https://github.com/littlewhitesea/STDAN-CVPRW-2022/blob/main/STDAN_STVSR.pdf"
     code: "https://github.com/littlewhitesea/STDAN-CVPRW-2022"
     poster: "https://github.com/littlewhitesea/STDAN-CVPRW-2022/blob/main/STDAN_CVPRW2022_POSTER.pdf"
-    selected: y
+    selected: n
 
   - title: "A New Approach to Waiting Time and Dispatch Frequency Guided Bus Timetable Optimization"
     authors: "<b>Hai Wang</b>, Feng Li, Wenming Yang, Qingmin Liao"
     venue: "ICIT'22: IEEE International Conference on Industrial Technology 2022."
     paper_pdf: "https://ieeexplore.ieee.org/document/10002721"
-    selected: y
+    selected: n
 
   - title: "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results"
     authors: "Ren Yang et al."
     venue: "CVPRW'21: CVPR Workshops."
     paper_pdf: "https://ieeexplore.ieee.org/document/9523125"
     code: "https://github.com/RenYang-home/NTIRE21_VEnh"
-    selected: y
+    selected: n
 
   - title: "NTIRE 2021 Challenge on Perceptual Image Quality Assessment"
     authors: "Jinjin Gu et al."
     venue: "CVPRW'21: CVPR Workshops."
     paper_pdf: "https://ieeexplore.ieee.org/document/9522906"
-    selected: y
+    selected: n
