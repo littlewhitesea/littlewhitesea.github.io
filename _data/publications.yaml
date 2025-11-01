@@ -8,7 +8,7 @@ papers:
     code: "https://github.com/littlewhitesea/Text-Driven-Pano-Gen"
     selected: y
 
-    - title: "Fine-grained Mortality Forecasting with Deep Learning"
+  - title: "Fine-grained Mortality Forecasting with Deep Learning"
     authors: "Huiling Zheng, <b>Hai Wang</b>, Rui Zhu, Jing-Hao Xue"
     venue: "AAS'25: Annals of Actuarial Science."
     paper_pdf: "https://pending.publication/"
