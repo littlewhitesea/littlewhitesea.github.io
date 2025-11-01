@@ -2,10 +2,17 @@ papers:
 
   - title: "A Survey on Text-Driven 360-Degree Panorama Generation"
     authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Weihao Xia, Jing-Hao Xue"
-    venue: "Preprint'25."
+    venue: "TCSVT'25: IEEE Transactions on Circuits and Systems for Video Technology."
     paper_pdf: "https://arxiv.org/pdf/2502.14799"
     project_page: "https://littlewhitesea.github.io/Text-Driven-Pano-Gen/"
     code: "https://github.com/littlewhitesea/Text-Driven-Pano-Gen"
+    selected: y
+
+    - title: "Fine-grained Mortality Forecasting with Deep Learning"
+    authors: "Huiling Zheng, <b>Hai Wang</b>, Rui Zhu, Jing-Hao Xue"
+    venue: "AAS'25: Annals of Actuarial Science."
+    paper_pdf: "https://pending.publication/"
+    code: "https://github.com/Icecream-maker/MortFCNet"
     selected: y
 
   - title: "A Brief Review of Deep Learning Methods in Mortality Forecasting"
