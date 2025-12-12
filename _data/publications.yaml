@@ -11,7 +11,7 @@ papers:
   - title: "Fine-grained Mortality Forecasting with Deep Learning"
     authors: "Huiling Zheng, <b>Hai Wang</b>, Rui Zhu, Jing-Hao Xue"
     venue: "AAS'25: Annals of Actuarial Science."
-    paper_pdf: "https://pending.publication/"
+    paper_pdf: "https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/finegrained-mortality-forecasting-with-deep-learning/7534FCB4E3B3AF20A58033B364C9C4F9"
     code: "https://github.com/Icecream-maker/MortFCNet"
     selected: n
 
