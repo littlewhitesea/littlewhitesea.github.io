@@ -1,5 +1,14 @@
 papers:
 
+
+  - title: "Probing CLIP's Comprehension of 360-Degree Textual and Visual Semantics"
+    authors: "<b>Hai Wang</b>, Xiaochen Yang, Mingzhi Dong, Jing-Hao Xue"
+    venue: "Preprint'26."
+    paper_pdf: "https://arxiv.org/pdf/2604.24642"
+    project_page: "https://littlewhitesea.github.io/360Semantics.github.io/"
+    code: "https://github.com/littlewhitesea/360Semantics"
+    selected: y
+
   - title: "A Survey on Text-Driven 360-Degree Panorama Generation"
     authors: "<b>Hai Wang</b>, Xiaoyu Xiang, Weihao Xia, Jing-Hao Xue"
     venue: "TCSVT'25: IEEE Transactions on Circuits and Systems for Video Technology."
