@@ -1,6 +1,14 @@
 papers:
 
 
+  - title: "Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization"
+    authors: "Xiaoyuan Cheng, Wenxuan Yuan, Zhancun Mu, Yuanzhao Zhang, Yiming Yang, <b>Hai Wang</b>, Zhuo Sun, Che Liu"
+    venue: "Preprint'26."
+    paper_pdf: "https://arxiv.org/pdf/2605.26282"
+    project_page: "https://wenxuan52.github.io/mbdpo-page/"
+    code: "https://github.com/Edmond1Cheng/MBDPO"
+    selected: y
+
   - title: "Probing CLIP's Comprehension of 360-Degree Textual and Visual Semantics"
     authors: "<b>Hai Wang</b>, Xiaochen Yang, Mingzhi Dong, Jing-Hao Xue"
     venue: "Preprint'26."
